@@ -35,6 +35,17 @@
     "artifact": {},
     "decrypt": {},
     "identify": {},
+    "net user":{
+        "location": ["127.0.0.1", "localhost"],
+        "message": [
+            "User accounts for \\DESKTOP-CBRE5A5",
+            "",
+            "-------------------------------------------------------------------------------",
+            "8A73B5            8A73C1           8A73E4",
+            "8A60D9            8A73F0           8A44C2",
+            "WDAGUtilityAccount9            admin           n"
+            ]
+    },
     "netstat": {
         "location": ["127.0.0.1", "localhost"],
         "message": [
