@@ -5,9 +5,9 @@
     "iconName": "OSS-75th.png",
     "terminalID": "cia",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "userId": "admin",
+        "password": "admin",
+        "userName": "admin"
     },
     "randomSeed": true,
     
