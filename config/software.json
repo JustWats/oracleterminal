@@ -1,4 +1,35 @@
 {
+    "john.exe": {
+        "help": "John the Ripper is a fast password cracker, currently available for many flavors of Unix, macOS, Windows, DOS, BeOS, and OpenVMS (the latter requires a contributed patch). Its primary purpose is to detect weak Unix passwords. Besides several crypt(3) password hash types most commonly found on various Unix flavors, supported out of the box are Kerberos/AFS and Windows LM hashes, as well as DES-based tripcodes, plus hundreds of additional hashes and ciphers in '-jumbo' versions.",
+        "clear": true,
+        "protection": ["admin"],
+        "delayed": 2000,
+        "message": [
+            "john --wordlist=password.lst --rules mypasswd",
+            "john --wordlist=all.lst --rules --salts=2 *passwd*",
+            "[List.Rules:Single]",
+            "A?V",
+            "Local User NTLM hashes collected.",
+            "Running brute force.",
+            "Running brute force..",
+            "Running brute force...",
+            "0% complete",
+            "23% complete",
+            "47% complete",
+            "51% complete",
+            "67% complete",
+            "79% complete",
+            "79% complete",
+            "79% complete",
+            "85% complete",
+            "98% complete",
+            "Password file stored in /opt/ddt/var/logs/crackoutput/12AB90D2C.txt",
+            "Opening file: /opt/ddt/var/logs/crackoutput/12AB90D2C.txt",
+            "8A73B5@trustno1   8A73C1@s1eepersir3n   8A73E4@s4m0r1",
+            "8A60D9@v01sun9    8A73F0@j0eymi11er     8A44C2@DugDugj4ck!",
+            "admin@admin       n@n"
+        ]
+    },
     "demo.exe": {
         "help": "Demonstrate some rendering features",
         "clear": true,
