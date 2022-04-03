@@ -1,0 +1,49 @@
+[
+    {
+        "userId": "8A73B5",
+        "password": "trustno1",
+        "userName": "Heywood, Baker"
+    },
+
+    {
+        "userId": "8A73C1",
+        "password": "s1eepersir3n",
+        "userName": "Hoffman, Ezra"
+    },
+	
+    {
+        "userId": "8A73E4",
+        "password": "s4m0r1",
+        "userName": "Mori, Sam"
+    },
+	
+    {
+        "userId": "8A60D9",
+        "password": "v0lsun9",
+        "userName": "Volsung, Harold"
+    },
+	
+    {
+        "userId": "8A73F0",
+        "password": "j0eymi11er",
+        "userName": "Miller, Joe"
+    },
+		
+    {
+        "userId": "8A44C2",
+        "password": "DugDugj4ck!",
+        "userName": "Dugal, Jackie"
+    },
+	
+    {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+
+    {
+        "userId": "n",
+        "password": "n",
+        "userName": "debug"
+    }
+]

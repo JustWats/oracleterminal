@@ -1,0 +1,38 @@
+[
+    {
+        "from": "Heywood",
+        "to": ["8A73E4", "8A73F0"],
+        "title": "Farewell O.E.M.D.",
+        "body": "So long EMD, Sam, Joe. We've got a great danger threatening ourselves. I'll need one of you to occupy these vagrant Survivors. Led by Mike Daniels, they're nomadic in nature. Two of their contacts seem to be much more capable than the rest. We captured one of their aliases when they were at the Train logistics depot. They seem to really enjoy using explosives, exercise caution."
+    },
+    {
+        "from": "System",
+        "to": ["n", "8A73B5"],
+        "title": "undefined",
+        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+    },
+    {
+        "from": "Samori",
+        "to": ["8A73C1", "8A73B5"],
+        "title": "Loud and clear",
+        "body": "We'll be cautious over here as always Baker. I'll let them interface with Ezra. She'll reach out to the Volsung and get them locally here."
+    },
+	{
+        "from": "HEzra",
+        "to": ["8A60D9", "8A73E4"],
+        "title": "Bound back to Uinta",
+        "body": "Harold, I've been told to interface with you guys for this message. You all have been interacting with the Survivors more than any of us, we need you to get them over to Uinta to act as a safe haven."
+    },
+	{
+        "from": "Samori",
+        "to": ["8A73B5", "8A44C2"],
+        "title": "Close by",
+        "body": "Baker, Jackie, We've got the Survivors here, reply with what you intend to do. They're fucking draining our supplies thick. Don't make it too long."
+    },
+    {
+        "from": "Mike",
+        "to": ["admin"],
+        "title": "wtf are you kidding me?",
+        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+    }
+]
