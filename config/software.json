@@ -34,7 +34,7 @@
     },
     "artifact": {},
     "decrypt": {},
-    "identify": {}
+    "identify": {},
     "netstat": {
         "location": ["127.0.0.1", "localhost"],
         "message": [
