@@ -1,8 +1,9 @@
 {
-    "serverAddress": "mono.city.ac.uk",
-    "serverName": "Monochrome BBS",
+    "year": "2074"
+    "serverAddress": "samori.unita",
+    "serverName": "Samori BBS",
     "iconName": "cmd.png",
-    "terminalID": "city",
+    "terminalID": "samori",
     "defaultUser": {
         "userId": "user",
         "password": "",
