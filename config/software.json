@@ -81,7 +81,7 @@
             "TCP    127.0.0.1:56840        DESKTOP-CBRE5A5:56839  ESTABLISHED",
             "TCP    127.0.0.1:58324        DESKTOP-CBRE5A5:53122  ESTABLISHED",
             "TCP    127.0.0.1:63824        DESKTOP-CBRE5A5:53122  ESTABLISHED",
-            "TCP    192.168.1.50:3389      mono.city.ac.uk        ESTABLISHED"
+            "TCP    192.168.1.50:3389      samori.unita           ESTABLISHED"
         ]
     }
 }
