@@ -1,0 +1,14 @@
+{
+    "serverAddress": "cia.gov",
+    "serverName": "Centeral Intelligence Agency",
+    "iconName": "OSS-75th.png",
+    "terminalID": "cia",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
+    "randomSeed": true,
+    
+    "latestKernel": true
+}

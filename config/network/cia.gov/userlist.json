@@ -1,0 +1,31 @@
+[
+    {
+        "userId": "8A73B5",
+        "password": "trustno1",
+        "userName": "Heywood, Baker"
+    },
+
+    {
+        "userId": "8A73C1",
+        "password": "sleepersiren",
+        "userName": "Hoffman, Ezra"
+    },
+	
+    {
+        "userId": "8A73E4",
+        "password": "samori",
+        "userName": "Mori, Sam"
+    },
+
+    {
+        "userId": "admin",
+        "password": "admin",
+        "userName": "root"
+    },
+
+    {
+        "userId": "n",
+        "password": "n",
+        "userName": "debug"
+    }
+]
