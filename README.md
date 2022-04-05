@@ -1,4 +1,4 @@
-# Email Reader Terminal for tabletop RPGs
+# Email Reader Terminal redesigned for the Final Reckoning RP
 
 ![Email Terminal Gif](docs/email_terminal.gif)
 
